@@ -1,5 +1,9 @@
 <?php
 
+function echo(){
+    echo 'sfsdfg';
+}
+
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
