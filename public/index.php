@@ -1,5 +1,7 @@
 <?php
-
+ static functuin gh(){
+    echo 'efggg';
+ }
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
